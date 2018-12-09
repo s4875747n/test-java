@@ -1,4 +1,4 @@
-public class TestSolidi {
+public class MainSolidi {
     public static void main(String[] args) {
         Sfera s1=new Sfera(1.0,0.5);
         Cubo c1=new Cubo(3.0,1.1);
