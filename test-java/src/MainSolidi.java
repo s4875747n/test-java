@@ -8,12 +8,12 @@ public class MainSolidi {
         
         System.out.println("Cubo    c1--> Superficie: " +c1.superficie());
         System.out.println("Cubo    c1--> Volume....: "+ c1.volume());
-        System.out.println("Cubo    c1--> Peso......: "+c1.peso());
+        System.out.println("Cubo    c1--> Peso......: ciao"+c1.peso());
         
         Solido sd1=s1;
-        System.out.println("Solido  sd1-> Volume....: "+sd1.volume());
+        System.out.println("Solido  sd1-> Volume....: ciao"+sd1.volume());
         
         Solido sd2=c1;
-        System.out.println("Solido  sd2-> Volume....: "+sd2.volume());               
+        System.out.println("Solido  sd2-> Volume....: ciao"+sd2.volume());               
     }
 }
