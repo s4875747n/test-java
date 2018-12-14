@@ -6,8 +6,8 @@ public class MainSolidi {
         System.out.println("Sfera   s1--> Volume....: " +s1.volume());
         System.out.println("Sfera   s1--> Peso......: " +s1.peso());
         
-      //  System.out.println("Cubo    c1--> Superficie: " +c1.superficie());
-      //  System.out.println("Cubo    c1--> Volume....: "+ c1.volume());
+        System.out.println("Cubo    c1--> Superficie: " +c1.superficie());
+        System.out.println("Cubo    c1--> Volume....: "+ c1.volume());
         System.out.println("Cubo    c1--> Peso......: "+c1.peso());
         
         Solido sd1=s1;
